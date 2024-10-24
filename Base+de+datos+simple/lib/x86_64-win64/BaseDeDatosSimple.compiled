@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1469148810"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiD:\UNASP\UNASP\UDEMY\Programacion profesional desde cero\PROYECTOS PASCAL\PROYECTOS OBLIGATORIOS\PROYECTO 8\Base+de+datos+simple\lib\x86_64-win64&quot; &quot;-FuD:\UNASP\UNASP\UDEMY\Programacion profesional desde cero\PROYECTOS PASCAL\PROYECTOS OBLIGATORIOS\PROYECTO 8\Base+de+datos+simple\&quot; &quot;-FUD:\UNASP\UNASP\UDEMY\Programacion profesional desde cero\PROYECTOS PASCAL\PROYECTOS OBLIGATORIOS\PROYECTO 8\Base+de+datos+simple\lib\x86_64-win64\&quot; &quot;-FED:\UNASP\UNASP\UDEMY\Programacion profesional desde cero\PROYECTOS PASCAL\PROYECTOS OBLIGATORIOS\PROYECTO 8\Base+de+datos+simple\&quot; &quot;-oD:\UNASP\UNASP\UDEMY\Programacion profesional desde cero\PROYECTOS PASCAL\PROYECTOS OBLIGATORIOS\PROYECTO 8\Base+de+datos+simple\BaseDeDatosSimple.exe&quot; BaseDeDatosSimple.lpr"/>
+</CONFIG>

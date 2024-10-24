@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="312"/>
+        <CursorPos Y="316"/>
+        <FoldState Value=" TLiQ2D031 T0m7Jl#"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ucomando.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UComando"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="99"/>
+        <CursorPos Y="218"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:/lazarus/fpc/3.2.2/source/packages/rtl-objpas/src/inc/strutils.pp"/>
+        <UnitName Value="StrUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="953"/>
+        <CursorPos X="3" Y="956"/>
+        <UsageCount Value="9"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="144" TopLine="135"/>
+      </Position1>
+      <Position2>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="146" TopLine="135"/>
+      </Position2>
+      <Position3>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="145" TopLine="135"/>
+      </Position3>
+      <Position4>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="146" TopLine="135"/>
+      </Position4>
+      <Position5>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="145" TopLine="135"/>
+      </Position5>
+      <Position6>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="146" TopLine="135"/>
+      </Position6>
+      <Position7>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="147" TopLine="136"/>
+      </Position7>
+      <Position8>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="146" TopLine="136"/>
+      </Position8>
+      <Position9>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="142" TopLine="136"/>
+      </Position9>
+      <Position10>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="146" TopLine="136"/>
+      </Position10>
+      <Position11>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="141" TopLine="136"/>
+      </Position11>
+      <Position12>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="148" TopLine="137"/>
+      </Position12>
+      <Position13>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="141" TopLine="137"/>
+      </Position13>
+      <Position14>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="148" TopLine="137"/>
+      </Position14>
+      <Position15>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="326" TopLine="320"/>
+      </Position15>
+      <Position16>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="322" TopLine="320"/>
+      </Position16>
+      <Position17>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="323" TopLine="320"/>
+      </Position17>
+      <Position18>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="324" TopLine="320"/>
+      </Position18>
+      <Position19>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="325" TopLine="320"/>
+      </Position19>
+      <Position20>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="141" TopLine="134"/>
+      </Position20>
+      <Position21>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="293" Column="41" TopLine="287"/>
+      </Position21>
+      <Position22>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="360" Column="88" TopLine="351"/>
+      </Position22>
+      <Position23>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="351" Column="68" TopLine="345"/>
+      </Position23>
+      <Position24>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="188" Column="62" TopLine="182"/>
+      </Position24>
+      <Position25>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="351" Column="79" TopLine="345"/>
+      </Position25>
+      <Position26>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="386" Column="120" TopLine="380"/>
+      </Position26>
+      <Position27>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="422" Column="39" TopLine="417"/>
+      </Position27>
+      <Position28>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="408" Column="43" TopLine="402"/>
+      </Position28>
+      <Position29>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="418" Column="29" TopLine="412"/>
+      </Position29>
+      <Position30>
+        <Filename Value="BaseDeDatosSimple.lpr"/>
+        <Caret Line="389" Column="37" TopLine="382"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="registroPersona"/>
+      </Item>
+      <Item>
+        <Expression Value="c"/>
+      </Item>
+      <Item>
+        <Expression Value="i"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
